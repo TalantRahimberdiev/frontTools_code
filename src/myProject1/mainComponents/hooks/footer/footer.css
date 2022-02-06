@@ -1,0 +1,45 @@
+
+#row_0{
+   width:100%;
+   background-color:#282c34 ;
+   margin:0 ;
+
+}
+#row_1{
+   width:100%;
+   background-color:white ;
+   margin: 0;
+}
+#details_0{
+   color: yellow;
+   margin:1vw ;
+}
+#details_1{
+   color: crimson;
+   margin:1vw;
+}
+#a_href_0{
+   word-break:break-all ;
+   color: yellow;
+   font-size: 1.3vw;
+   display: block;
+   margin: 1vw;
+}
+#a_href_1{
+   word-break:break-all ;
+   color: black;
+   font-size: 1.3vw;
+   display: block;
+   margin: 1vw;
+}
+
+#icon_0{
+   margin: 1vw;
+   color: white;
+   font-size: 2.5vw;
+}
+#icon_1{
+   margin: 1vw;
+   color: black;
+   font-size: 2.5vw;
+}
